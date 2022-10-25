@@ -1,5 +1,5 @@
 # SpacecraftAttitudeDynamics-SADC
 Attitude dynamics and control of a 6U CubeSat in LEO environment. The baseline hardware of the ADCS consists of one three-axis magnetometer, two Earth Horizon sensors, one three-axis MEMS gyro, three magnetorquers and a set of four CMGs. Two attitude determination algorithms have been implemented and compared: TRIAD and SVD. For each mission phase different control laws are designed and their performances are discussed. The dynamic behaviour of the spacecraft has been analyzed both during detumbling manoeuvre and Earth pointing phase, under the effects of the environmental disturbance torques, testing the robustness of control and determination algorithms to noisy raw sensor readings and different initial conditions. MATLAB/Simulink environment has been used to develop the simulations in order to test the design and validate the results.
 
-If you are interested in the written report of this project feel free to contact me on LinkedIn:
+If you are interested in the written report of this project feel free to contact me on LinkedIn: 
 https://www.linkedin.com/in/gian-marco-paldino/
